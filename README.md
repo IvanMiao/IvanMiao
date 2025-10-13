@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Yifan 👋
 
-- 🎓 NLP & Software
-- 🚀 **Learn by doing**
+🎓 NLP & Software
+🚀 **Learn by doing**
 
 **Some of my Projects:**
 
