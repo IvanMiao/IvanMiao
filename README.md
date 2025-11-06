@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Yifan 👋
 
-🎓 NLP & Software
+🎓 NLP Student @ Inalco & Software Engineer Student @ 42
 
-🚀 **Learning by doing**
 
 **Some of my Projects:**
 
 - **minishell**: A Unix shell in C
 - **minirt**: A Phong model ray tracer in C
-- **LM from scratch**: A Transformer Language Model from scratch (minimal PyTorch)
-- **logos ai**: A full-stack AI agent for language acquisition from text
+- **LM from scratch**: A Transformer Language Model from scratch in Python with minimal PyTorch
+- **LogosAI**: A full-stack AI agent for language acquisition from text
