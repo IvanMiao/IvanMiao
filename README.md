@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Yifan 👋
 
-🎓 NLP Student @ Inalco & Software Engineer Student @ 42
+🎓 NLP Student @ Inalco & Software Engineering Student @ 42
 
 
 **Some of my Projects:**
