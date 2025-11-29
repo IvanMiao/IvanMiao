@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 **Some of my Projects:**
 
-- **minishell**: A Unix shell in C
-- **minirt**: A Phong model ray tracer in C
 - **LM from scratch**: A Transformer Language Model from scratch in Python with minimal PyTorch
 - **LogosAI**: A full-stack AI agent for language acquisition from text
+- **minishell**: A Unix shell in C
+- **minirt**: A Phong model ray tracer in C
+- **webserv**(ongoing): A nginx-like webserv in c++ 
