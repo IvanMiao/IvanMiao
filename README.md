@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Yifan 👋
 
-🎓 NLP Student @ Inalco & Software Engineering Student @ 42
+🎓 NLP Student @ Inalco
+
+🎓 Software Engineering Student @ 42
 
 
 **Some of my Projects:**
@@ -24,4 +26,4 @@ Here are some ideas to get you started:
 - **LogosAI**: A full-stack AI agent for language acquisition from text
 - **minishell**: A Unix shell in C
 - **minirt**: A Phong model ray tracer in C
-- **webserv**(ongoing): A nginx-like webserv in c++ 
+- **webserv**(ongoing): A nginx-like web server in c++ 
