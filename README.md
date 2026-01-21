@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 **Some of my Projects:**
 
-- **LM from scratch**: A Transformer Language Model from scratch in Python with minimal PyTorch
 - **LogosAI**: A full-stack AI agent for language acquisition from text
+- **webserv**: A nginx-like HTTP web server in c++
+- **LM from scratch**: A Transformer Language Model from scratch in Python with minimal PyTorch
 - **minishell**: A Unix shell in C
 - **minirt**: A Phong model ray tracer in C
-- **webserv**(ongoing): A nginx-like web server in c++ 
