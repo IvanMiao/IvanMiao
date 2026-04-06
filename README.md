@@ -11,7 +11,7 @@ software engineering student @ [42 Paris]
 
 ---
 
-### 🚀 Selected Projects
+### 🚀 Projects
 
 #### 🤖 AI & Product
 - **[funova](https://github.com/Chloezhu010/funova)** – Comic book generator turning ideas into visual storytelling.
@@ -23,11 +23,3 @@ software engineering student @ [42 Paris]
 - **[webserv](https://github.com/IvanMiao/webserv)** – Nginx-like HTTP web server in C++.
 - **[minishell](https://github.com/IvanMiao/minishell)** – Unix shell implementation.
 - **[minirt](https://github.com/IvanMiao/minirt)** – Phong-model ray tracer in C.
-
----
-
-### 📊 Statistics
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IvanMiao&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMiao&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
