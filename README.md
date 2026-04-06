@@ -15,7 +15,7 @@ software engineering student @ [42 Paris]
 
 #### 🤖 AI & Product
 - **[funova](https://funova-comic.vercel.app/)** – Comic book generator turning ideas into visual storytelling.
-- **[vibecheck](https://github.com/Chloezhu010?tab=repositories)** – User onboarding UI/UX checker. **Gemini Hackathon 3rd Place** 🏆
+- **[vibecheck](https://github.com/Chloezhu010/paris-gemini3-hackathon)** – User onboarding UI/UX checker. **Gemini Hackathon 3rd Place** 🏆
 - **[LogosAI](https://github.com/IvanMiao/LogosAI)** – Full-stack AI agent for language acquisition.
 - **[LM From Scratch](https://github.com/IvanMiao/LM-From-Scratch)** – Transformer language model built from scratch.
 
