@@ -1,29 +1,33 @@
-<!--
-**IvanMiao/IvanMiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Yifan 👋
 
-Here are some ideas to get you started:
+NLP student @ [Inalco]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+software engineering student @ [42 Paris]
 
-## Hi, I'm Yifan 👋
+---
 
-🎓 NLP Student @ Inalco
+### 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=py,ts,js,cpp,c,react,linux,git,docker)](https://skillicons.dev)
 
-🎓 Software Engineering Student @ 42
+---
 
+### 🚀 Selected Projects
 
-**Some of my Projects:**
+#### 🤖 AI & Product
+- **[funova](https://github.com/Chloezhu010/funova)** – Comic book generator turning ideas into visual storytelling.
+- **[vibecheck](https://github.com/Chloezhu010/vibecheck)** – User onboarding UI/UX checker. **Gemini Hackathon 3rd Place** 🏆
+- **[LogosAI](https://github.com/IvanMiao/LogosAI)** – Full-stack AI agent for language acquisition.
+- **[LM From Scratch](https://github.com/IvanMiao/LM-From-Scratch)** – Transformer language model built from scratch.
 
-- **LogosAI**: A full-stack AI agent for language acquisition from text
-- **webserv**: A nginx-like HTTP web server in c++
-- **LM from scratch**: A Transformer Language Model from scratch in Python with minimal PyTorch
-- **minishell**: A Unix shell in C
-- **minirt**: A Phong model ray tracer in C
+#### ⚙️ Systems & Graphics
+- **[webserv](https://github.com/IvanMiao/webserv)** – Nginx-like HTTP web server in C++.
+- **[minishell](https://github.com/IvanMiao/minishell)** – Unix shell implementation.
+- **[minirt](https://github.com/IvanMiao/minirt)** – Phong-model ray tracer in C.
+
+---
+
+### 📊 Statistics
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IvanMiao&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMiao&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
