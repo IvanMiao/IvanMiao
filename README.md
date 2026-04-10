@@ -4,14 +4,11 @@ NLP student @ [Inalco]
 
 software engineering student @ [42 Paris]
 
----
-
-### 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,ts,js,cpp,c,react,linux,git,docker)](https://skillicons.dev)
 
 ---
 
-### 🚀 Projects
+### Projects
 
 #### 🤖 AI & Product
 - **[funova](https://funova-comic.vercel.app/)** – Comic book generator turning ideas into visual storytelling.
