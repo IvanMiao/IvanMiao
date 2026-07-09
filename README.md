@@ -12,8 +12,9 @@ software engineering student @ [42 Paris]
 
 #### 🤖 AI & Product
 - **[funova](https://funova-comic.vercel.app/)** – Comic book generator turning ideas into visual storytelling.
-- **[vibecheck](https://github.com/Chloezhu010/paris-gemini3-hackathon)** – User onboarding UI/UX checker. **Gemini Hackathon 3rd Place** 🏆
+- **[vibecheck](https://github.com/Chloezhu010/paris-gemini3-hackathon)** – User onboarding UI/UX checker. **Gemini 3 Hackathon 3rd Place** 🏆
 - **[LogosAI](https://github.com/IvanMiao/LogosAI)** – Full-stack AI agent for language acquisition.
+- **[ClinTrial](https://github.com/IvanMiao/Raise-Hackathon-Clintrial)** - Clinical trial payment review agent. **RAISE Summit Hackathon 1st Place, Vultr Track** 🏆
 - **[Graft Guard](https://github.com/gogorun1/Graft-Guard)** - Compile legacy system into typed, cached mcp tools. **GOSIM Agentic Hackathon 2nd Place, Minimax Track winner** 🏆
 - **[LM From Scratch](https://github.com/IvanMiao/LM-From-Scratch)** – Transformer language model built from scratch.
 
