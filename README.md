@@ -17,7 +17,7 @@ software engineering student @ [42 Paris]
 - **[ClinTrial](https://github.com/IvanMiao/Raise-Hackathon-Clintrial)** - Clinical trial payment review agent. **RAISE Summit Hackathon 1st Place, Vultr Track** 🏆
 - **[Graft Guard](https://github.com/gogorun1/Graft-Guard)** - Compile legacy system into typed, cached mcp tools. **GOSIM Agentic Hackathon 2nd Place, Minimax Track winner** 🏆
 - **[Soulloom](https://github.com/IvanMiao/Soulloom)** - Autonomous tweet-to-game studio. **Hermes Buildathon 3rd Place** 🏆
-- [Fault Capsule] - Gemma4 Hackathon 1st Place, edge/on-device track. 🏆
+- **[Fault Capsule](https://github.com/IvanMiao/Gemma-4-hackathon)** - **Gemma4 Hackathon 1st Place, edge/on-device track.** 🏆
 - **[LM From Scratch](https://github.com/IvanMiao/LM-From-Scratch)** – Transformer language model built from scratch.
 
 #### ⚙️ Systems & Graphics
