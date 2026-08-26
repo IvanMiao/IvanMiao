@@ -1,7 +1,6 @@
 # Hi, I'm Yifan 👋
 
 **NLP student at [Inalco] · Software Engineering student at [42 Paris]**  
-Building useful AI products
 
 [![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,react,linux,git,docker)](https://skillicons.dev)
 
@@ -30,7 +29,3 @@ Building useful AI products
 | **[webserv](https://github.com/IvanMiao/webserv)** | Nginx-like HTTP server in C++. |
 | **[minishell](https://github.com/IvanMiao/minishell)** | Unix shell implementation in C. |
 | **[minirt](https://github.com/IvanMiao/minirt)** | Phong-model ray tracer in C. |
-
----
-
-<sub>Paris, France · Open to collaborations in AI, developer tools, and language technology.</sub>
