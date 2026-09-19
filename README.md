@@ -1,6 +1,6 @@
 # Hi, I'm Yifan 👋
 
-**NLP · Software Engineering student**  
+**NLP · Software Engineering**  
 
 [![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,react,linux,git,docker)](https://skillicons.dev)
 
