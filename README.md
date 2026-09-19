@@ -1,6 +1,6 @@
 # Hi, I'm Yifan 👋
 
-**NLP student at [Inalco] · Software Engineering student at [42 Paris]**  
+**NLP · Software Engineering student**  
 
 [![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,react,linux,git,docker)](https://skillicons.dev)
 
